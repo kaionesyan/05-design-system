@@ -1,0 +1,2 @@
+import{A as t}from"./index-1439542e.js";import"./index-7d015b99.js";import"./iframe-2905bf81.js";import"./index-2408a976.js";import"./jsx-runtime-b000c2b9.js";const c={title:"Data display/Avatar",component:t,argTypes:{src:{control:{type:"text"}}}},e={args:{src:"https://avatars.githubusercontent.com/u/10064416?v=4"}},p={args:{src:void 0}},m=["Primary","WithFallback"];export{e as Primary,p as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-30178357.js.map
